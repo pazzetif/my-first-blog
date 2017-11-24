@@ -25,7 +25,7 @@ SECRET_KEY = 'pc(2(jcw&+b!39w$x7)f(*=*8zm_cj=o1yp9-)$mra3gk$lyze'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<paradoks>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'paradoks.pythonanywhere.com']
 
 
 # Application definition
